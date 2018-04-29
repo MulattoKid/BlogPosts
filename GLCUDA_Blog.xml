@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>fedai.tech</title>
+    <link>https://fedai.tech</link>
+    <pubDate>Fri, 12 May 2017 19:28:23 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>194898943</wp:author_id>
+      <wp:author_login>daniefla@stud.ntnu.no</wp:author_login>
+      <wp:author_email>daniefla@stud.ntnu.no</wp:author_email>
+      <wp:author_display_name><![CDATA[Daniel Fedai Larsen]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Daniel]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Fedai Larsen]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Thu, 14 Sep 2017 06:36:19 +0000</pubDate>
+      <content:encoded><![CDATA[<p> </p><p>Hi!</p><p>My name is Daniel Fedai Larsen and I am a 4th year CS student at the Norwegian University of Science and Technology.&nbsp;I am currently enrolled in a 2 year AI master's program, which I plan to finish the spring of 2019.</p><p>Computer graphics and game/rendering engines are the two areas of CS that I truly enjoy the most. There is just something about making pretty things show up on the screen, and understanding how these incredibly complex systems work, that I find fascinating. I one day hope to get a job where I get to work with either, or both, of these areas.</p><p>For my resume, have a look at my LinkedIn profile or get in touch and I will be happy to send you a PDF.&nbsp;</p><p> </p><h2 class="text-align-center">Get in touch with me through</h2>&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a09459cc68625b2e0dac/1494655231972/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169f316b8f5b6a4a0a720b/1494655249536/download.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="/contact" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a0c337c581c19c975c4c/1494655499754/email-icon-23.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page/</link>
+      <title>Portfolio</title>
+      <pubDate>Sun, 14 May 2017 16:04:01 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h1 class="text-align-center">Portfolio of Daniel Fedai Larsen</h1>&nbsp;<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="">
+  <div class="spinner-wrapper"></div>
+  <input type="search" class="search-input" value="" placeholder="Search"/>
+</div>
+
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3023a0411c1023cdc60/1494655752568/?format=original" alt=""/>
+  
+
+<h3>ShaderToy ray tracing</h3><p dir="ltr">This is one of my ShaderToy demos that use ray tracing in order to create an image of a sphere that refracts light that enters through it.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.shadertoy.com/user/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">ShaderToy profile</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59168f97ebbd1a2575fb8da9/1494650783034/CubesInstanced.png?format=original" alt=""/>
+  
+
+<h3>OpenGL instance rendering</h3><p>This was my first time playing with instancing in OpenGL. &nbsp;The result is a scene with 274 625 cubes in a 3D grid and a camera following a spline; all rendering in an average of 4.06 ms.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/CubesInstanced" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.youtube.com/watch?v=9nYsrXLfwCc&ab_channel=DanielFedaiLarsen" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Youtube video</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591691f5414fb57bbf91d80f/1494651383937/water-1018808_960_720.jpg?format=original" alt=""/>
+  
+
+<h3>C++ memory pool implementation</h3><p dir="ltr">This was my 2 week project over Christmas break, going from reading about memory pools in "Game Engine Architecture" by Jason Gregory of Naughty Dog, to implementing one myself.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/MemoryPool" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169411414fb57bbf91e78e/1494651924430/app_icon2.png?format=original" alt=""/>
+  
+
+&nbsp;<h3>My mJournal Google Play App</h3><p dir="ltr">This was my first long term personal project. It is an Android app that allows users to store detailed medical information about themselves.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://play.google.com/store/apps/details?id=com.mulattokid.medapp&hl=en" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Google Play Store</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591690f05016e1ac9987f016/1494651120993/16972113.jpg?format=original" alt=""/>
+  
+
+<h3>Github account</h3><p>This is my Github account. You will find all of my public repositories there.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Take me here</a>
+</div>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact/</link>
+      <title>Contact</title>
+      <pubDate>Sat, 13 May 2017 06:15:41 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Contact</h1>
+
+
+
+<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://danielfedailarsen.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5916a1c717bffc6da9eeed5c', '', 'page-5916a18b15cf7d45e95ee9b3');
+        });
+        return false;
+      })(this)" data-form-id="5916a1c717bffc6da9eeed5c">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_6_1494654402271_5014" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_6_1494654402271_5015" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_6_1494654402271_5015-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_6_1494654402271_5015-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_6_1494654402271_5016" class="form-item field text required">
+                <label class="title" for="text-yui_3_17_2_6_1494654402271_5016-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text-yui_3_17_2_6_1494654402271_5016-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_6_1494654402271_5017" class="form-item field textarea required">
+                <label class="title" for="textarea-yui_3_17_2_6_1494654402271_5017-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_6_1494654402271_5017-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+&nbsp;&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3c7b8a79b8c6e2689b6/1494656026834/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3f837c581c19c977184/1494656022079/download.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Path tracer #1 - CUDA-OpenGL interoperability</title>
+      <link>/path-tracer-1-cudaopengl-setup/2017/10/27/path-tracer-1-cuda-opengl-seutp</link>
+      <content:encoded><![CDATA[<h1 id="intro-1">Intro #1</h1>
+<p>I recently decided that I should start to work on my own path tracing "engine" and so here we are. I will try to share as much as possible without it just becoming too much to read. Hopefully what I write will be of some use to others who might run into the same problems I do during this process. Just as a quick disclaimer, here is my setup which I plan to use for throughout the project (hate it or love it, this is what I'm working with):</p>
+<ul>
+<li>Windows 10</li>
+<li>Intel i7-6700K @4.2GHz</li>
+<li>Nvidia GTX 970 (4GB)</li>
+<li>16GB RAM</li>
+<li>Microsoft Visual Studio Community 2017</li>
+<li>CUDA Toolkit 9.0</li>
+<li>OpenGL 4.3 (I will occasionally work from my laptop which does not support v4.5)</li>
+<li>SDL 2.0</li>
+</ul>
+<h1 id="intro-2">Intro #2</h1>
+<p>So, in this first installment we'll have a look at setting up CUDA and OpenGL in such a way that we can create our image through CUDA and display it using OpenGL. I'm completely new to CUDA, but have 2 years of OpenGL experience, so for me the challenge was getting CUDA to cooperate in an understandable way. Also, the OpenGL part of this is rather simple, so I won't go into much detail there. Let's get started!</p>
+<h1 id="cuda-toolkit">CUDA Toolkit</h1>
+<p>We will obviously need CUDA for this, so if you don't already have it installed, head over to <a href="https://developer.nvidia.com/cuda-downloads">https://developer.nvidia.com/cuda-downloads</a> and downland and install it. As stated above, I'm using Windows, but it's available for both Linux and OSX as well. I only followed the default installation and it worked fine straight away. If you're on Windows, using Visual Studio will greatly simply compiling the coda we'll write, so if you don't have that installed, I'd recommend you do that too (before you install the CUDA toolkit) <a href="https://www.visualstudio.com/downloads/">https://www.visualstudio.com/downloads/</a> . After you've installed both, simply create a new CUDA project (which should now be an option in Visual Studio).</p>
+<h1 id="opengl">OpenGL</h1>
+<p>Next, magically make an OpenGL window appear. If you don't know how to do this, this tutorial is might not be what you are looking for (just maybe). Make sure you remember adding the necessary additional <em>include</em>, <em>lib</em> and <em>dependencies</em> in Visual Studio's project manager. To make sure everything works, draw two triangles forming a square covering the entrire screen. Also, give each vertex respective texture coordinates. My code located in <strong><em>Display.cpp</em></strong> looks like this:</p>
+<pre><code class="lang-cpp">void GLInit(const std::string&amp; vertex_shader, const std::string&amp; fragment_shader)
+{
+    shader = ShaderCreate(vertex_shader, fragment_shader);
+    const int num_vertices_points = 24;
+    GLfloat vertices[num_vertices_points] = {
+        -1.0f, +1.0f,    0.0f, 1.0f,
+        -1.0f, -1.0f,    0.0f, 0.0f,
+        +1.0f, -1.0f,    1.0f, 0.0f,
+
+        +1.0f, -1.0f,    1.0f, 0.0f,
+        +1.0f, +1.0f,    1.0f, 1.0f,
+        -1.0f, +1.0f,    0.0f, 1.0f
+    };
+    glGenBuffers(1, &amp;vbo);
+    glBindBuffer(GL_ARRAY_BUFFER, vbo);
+    glBufferData(GL_ARRAY_BUFFER, num_vertices_points * sizeof(GLfloat), &amp;vertice[0], GL_STATIC_DRAW);
+    glGenVertexArrays(1, &amp;vao);
+    glBindVertexArray(vao);
+    glEnableVertexAttribArray(0);
+    glEnableVertexAttribArray(1);
+    glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 4 * sizeof(GLfloat), 0);
+    glVertexAttribPointer(1, 2, GL_FLOAT, GL_FALSE, 4 * sizeof(GLfloat), (void*(2 * sizeof(GLfloat)));
+    glBindVertexArray(0);
+    glBindBuffer(GL_ARRAY_BUFFER, 0);
+}</code></pre>
+<p>Also, notice how we are creating a shader that has the following <strong>vertex</strong></p>
+<pre><code class="lang-c">#version 430
+in layout(location=0) vec2 position;
+in layout(location=1) vec2 v_uv;
+out vec2 f_uv;
+void main()
+{
+    f_uv = v_uv;
+    gl_Position = vec4(position, 0.0f, 1.0f);
+}</code></pre>
+<p>and <strong>fragment</strong> shader</p>
+<pre><code class="lang-c">#version 430
+in vec2 f_uv;
+uniform sampler2D s;
+out vec4 frag_color;
+void main()
+{
+    frag_color = texture(s, f_uv);
+}</code></pre>
+<p>The function that will draw this to the screen looks like this:</p>
+<pre><code class="lang-cpp">void DisplayUpdate(SDL_Window* window, GLuint texture)
+{
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+    glUseProgram(shader);
+    glBindBuffer(GL_ARRAY_BUFFER, vbo);
+    glBindVertexArray(vao);
+    glBindTexture(GL_TEXTURE_2D, texture);
+
+    glDrawArrays(GL_TRIANGLES, 0, 6);
+
+    glBindTexture(GL_TEXTURE_2D, NULL);
+    glBindVertexArray(NULL);
+    glBindBuffer(GL_ARRAY_BUFFER, NULL);
+    glUseProgram(NULL);
+
+    SDL_GL_SwapWindow(window);
+}</code></pre>
+<p>This about does it for the "pure" OpenGL part. All of the code above should be self explanatory, and so I will not go into any more detail. Next, we need to deal with the texture that is being passed in as an argument to <strong><em>DisplayUpdate</em></strong>.</p>
+<h1 id="cuda-opengl-interoperability">CUDA-OpenGL interoperability</h1>
+<p>First off, let's briefly mention what's great about the concept of CUDA-OpenGL interoperability. Well, as you probably know, both CUDA and OpenGL utilize the GPU to do its work. This means that if we create a 2D image using CUDA, that data is located in the GPU's memory. The same goes for OpenGL, if we make a call to <em>glTexImage2D</em>, we are uploading that data to the GPU's memory. We can from this clearly see that if we made it so that both CUDA and OpenGL referred to the same memory on the GPU, we could write to it from CUDA, and display it using OpenGL without having the data needing to go via the system's main memory. That's the concept; the implementation was not so trivial to work with, and it took me several hours to get it working properly.</p>
+<p>The following code is located in <strong><em>GLCUDA.h</em></strong></p>
+<pre><code class="lang-cpp">#include "include\GL\glew.h"
+#include "cuda_gl_interop.h"
+void GLCUDAInit();
+void GLCUDARunKernel();
+GLuint GLCUDAGetTexture();</code></pre>
+<p>Take note of the fact that <em>glew.h</em> is included before _cuda_gl<em>interop.h</em>, as this is required. The rest of the code is from <strong><em>GLCUDA.cu</em></strong>, which has the following global variables:</p>
+<pre><code class="lang-cpp">static GLuint gl_texture;
+static cudaGraphicsResource* cuda_resource;
+static cudaArray* gl_cuda_array;
+surface&lt;void, cudaSurfaceType2D&gt; cuda_surface_write;</code></pre>
+<p>Let's go through the functions one by one, code first, followed by an explanation.</p>
+<pre><code class="lang-cpp">void GLCUDAInit()
+{
+    //OpenGL
+    glGenTextures(1, &amp;gl_texture);
+    glBindTexture(GL_TEXTURE_2D, gl_texture);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA8, DISPLAY_WIDTH, DISPLAY_HEIGHT, 0,  GL_RGBA, GL_UNSIGNED_BYTE, NULL);
+    glBindTexture(GL_TEXTURE_2D, 0);
+
+    //CUDA
+    cudaGraphicsGLRegisterImage(&amp;cuda_resource, gl_texture, GL_TEXTURE_2D,  cudaGraphicsRegisterFlagsSurfaceLoadStore);
+    cudaGraphicsMapResources(1, &amp;cuda_resource, 0);
+    cudaGraphicsSubResourceGetMappedArray(&amp;gl_cuda_array, cuda_resource, 0, 0);
+    cudaGraphicsUnmapResources(1, &amp;cuda_resource, 0);
+}</code></pre>
+<p>We first create an empty 2D texture in OpenGL. Then we register the texture with a CUDA resource. Then we <em>map</em> it, allowing CUDA to access the resource (can be thought of as <em>glBind*</em>). The crucial function call is <em>cudaGraphicsSubResourceGetMappedArray</em>, which given a resource and a pointer, will give us the starting memory address of the texture attached to the resource. We then call <em>unmap</em> (just as in OpenGL where we unbind). Great, we now have a pointer to te texture which we can write to. However, since the memory belongs to OpenGL, we can't "just" write to it like we would usualy do on the CPU. Additionally, what we have is a pointer to a <em>cudaArray</em>, which is a struct. So, to write to it, we do the following</p>
+<pre><code class="lang-cpp">void GLCUDARunKernel()
+{
+    cudaBindSurfaceToArray(cuda_surface_write, gl_cuda_array);
+    //https://en.wikipedia.org/wiki/CUDA
+    //Each block has 1024 threads = 32 warps
+    //The image has 1920*1080=2,073,600 pixels -&gt; 2,073,600/1024=2025 blocks    needed in grid
+    dim3 block_size(32, 32); //32*32=1024 threads per block (=max)
+    dim3 grid_size(60, 34); //32*60=1920, 32*34=1088 -&gt; remeber to check if y_dim&gt;1080
+    GLCUDAWriteToTex &lt;&lt;&lt;grid_size, block_size&gt;&gt;&gt;(DISPLAY_WIDTH, DISPLAY_HEIGHT);
+}</code></pre>
+<p>We bind out <em>cudaArray</em> to a surface which we defined at the top of the file to be a <em>cudaSurfaceType2D</em> (CUDA does not have any <em>unbind</em> functions like OpenGL). We then specify how many threads we want. If you don't understand this part, I encourage you to watch this presentation <a href="https://youtu.be/nRSxp5ZKwhQ?t=27m6s">https://youtu.be/nRSxp5ZKwhQ?t=27m6s</a>. For simplicity, I know that my OpenGL window is 1920x1080, so I hardcoded the dimensions of my blocks and grid. We then launch our kernel with those dimensions, providing the window width and height. The reason we send the width and the height is that as you can see, our grid will launch too many threads in the y-dimension, and so we have to make sure that we only use the threads we need, so that we do not write to memory locations not part of the texture we are trying to write to. The actual kernel looks like this</p>
+<pre><code class="lang-cpp">__global__ void GLCUDAWriteToTex(int width, int height)
+{
+    int y = blockIdx.y * blockDim.y + threadIdx.y;
+    if (y &lt; height)
+    {
+        int x = blockIdx.x * blockDim.x + threadIdx.x;
+        surf2Dwrite(make_uchar4(127, 127, 0, 255), cuda_surface_write, x * sizeof(uchar4), y);
+    }
+}</code></pre>
+<p>What we do here is first calculate our y index, making sure that we are inside within the height of the texture, calculate the x index, and then write to the texture. You should take note of how we in this case are using a <em>uchar4</em>. This is because the texture we created with OpenGL has an internal format of _GL<em>RGBA8</em> which means that each texel is composed of 4 values, each 8 bits. An unsigned char (<em>uchar</em>) is also 8 bits, and so we need 4 of them to fill each texel with the necessary data it needs. Lastly, <em>surf2DWrite</em> does not inherently know know this, so we have to specify the x-coordinate with a byte offset. That is why we pass</p>
+<pre><code class="lang-cpp">x * sizeof(uchar4)</code></pre>
+<p>as our x index.</p>
+<h1 id="finishing-up">Finishing up</h1>
+<p>Alright, when integrating this with the rest of the code, it should produce a yellow-brown-ish window (remember that you need to compile <strong><em>GLCUDA.cu</em></strong> with <em>nvcc</em> and not <em>msvc</em>). My own <em>main</em> loop looks like this</p>
+<pre><code class="lang-cpp">SDL_Window* window = DisplayInit();
+GLInit("shader/shader.vert", "shader/shader.frag");
+GLCUDAInit();
+while (DisplayOpen())
+{
+    GLCUDARunKernel();
+    cudaDeviceSynchronize();
+    DisplayUpdate(window, GLCUDAGetTexture());
+}
+GLCUDADestroy();
+GLDestroy();
+DisplayDestroy(window);</code></pre>
+<p>In the clean-up functions, I am simply making calls to <em>glDelete*()</em> and <em>cudaFree</em> functions where necessary. Should you run into any problems, feel free to comment and I'll try my best to help.</p>
+<p>Thanks, Daniel</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2017/10/27/path-tracer-1-cuda-opengl-seutp</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 28 Oct 2017 09:21:20 +0000</pubDate>
+      <wp:post_date>2017-10-28 09:21:20</wp:post_date>
+      <wp:post_date_gmt>2017-10-28 09:21:20</wp:post_date_gmt>
+      <category domain="post_tag" nicename="cuda"><![CDATA[CUDA]]></category>
+      <category domain="post_tag" nicename="opengl"><![CDATA[OpenGL]]></category>
+      <category domain="post_tag" nicename="cuda-opengl-interoperability"><![CDATA[CUDA OpenGL interoperability]]></category>
+      <category domain="post_tag" nicename="gpgpu"><![CDATA[GPGPU]]></category>
+      <category domain="post_tag" nicename="cuda-opengl-texture"><![CDATA[CUDA OpenGL texture]]></category>
+      <category domain="post_tag" nicename="cuda-texture"><![CDATA[CUDA texture]]></category>
+      <category domain="category" nicename="path-tracer"><![CDATA[Path tracer]]></category>
+      <category domain="category" nicename="cuda"><![CDATA[CUDA]]></category>
+      <category domain="category" nicename="opengl"><![CDATA[OpenGL]]></category>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title />
+      <link>/path-tracer-1-cudaopengl-setup/2017/10/27/qj39rizssxaiqvbjjb28e2r7r19j38-ciy3n</link>
+      <content:encoded />
+      <excerpt:encoded />
+      <wp:post_name>2017/10/27/qj39rizssxaiqvbjjb28e2r7r19j38-ciy3n</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Fri, 27 Oct 2017 16:52:27 +0000</pubDate>
+      <wp:post_date>2017-10-27 16:52:27</wp:post_date>
+      <wp:post_date_gmt>2017-10-27 16:52:27</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>fedai.tech</title>
+    <link>https://fedai.tech</link>
+    <pubDate>Fri, 12 May 2017 19:28:23 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1170022378</wp:author_id>
+      <wp:author_login>daniefla@stud.ntnu.no</wp:author_login>
+      <wp:author_email>daniefla@stud.ntnu.no</wp:author_email>
+      <wp:author_display_name><![CDATA[Daniel Fedai Larsen]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Daniel]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Fedai Larsen]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Thu, 14 Sep 2017 06:36:19 +0000</pubDate>
+      <content:encoded><![CDATA[<p> </p><p>Hi!</p><p>My name is Daniel Fedai Larsen and I am a 4th year CS student at the Norwegian University of Science and Technology.&nbsp;I am currently enrolled in a 2 year AI master's program, which I plan to finish the spring of 2019.</p><p>Computer graphics and game/rendering engines are the two areas of CS that I truly enjoy the most. There is just something about making pretty things show up on the screen, and understanding how these incredibly complex systems work, that I find fascinating. I one day hope to get a job where I get to work with either, or both, of these areas.</p><p>For my resume, have a look at my LinkedIn profile or get in touch and I will be happy to send you a PDF.&nbsp;</p><p> </p><h2 class="text-align-center">Get in touch with me through</h2>&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a09459cc68625b2e0dac/1494655231972/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169f316b8f5b6a4a0a720b/1494655249536/download.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="/contact" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a0c337c581c19c975c4c/1494655499754/email-icon-23.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page/</link>
+      <title>Portfolio</title>
+      <pubDate>Sun, 14 May 2017 16:04:01 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h1 class="text-align-center">Portfolio of Daniel Fedai Larsen</h1>&nbsp;<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="">
+  <div class="spinner-wrapper"></div>
+  <input type="search" class="search-input" value="" placeholder="Search"/>
+</div>
+
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3023a0411c1023cdc60/1494655752568/?format=original" alt=""/>
+  
+
+<h3>ShaderToy ray tracing</h3><p dir="ltr">This is one of my ShaderToy demos that use ray tracing in order to create an image of a sphere that refracts light that enters through it.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.shadertoy.com/user/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">ShaderToy profile</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59168f97ebbd1a2575fb8da9/1494650783034/CubesInstanced.png?format=original" alt=""/>
+  
+
+<h3>OpenGL instance rendering</h3><p>This was my first time playing with instancing in OpenGL. &nbsp;The result is a scene with 274 625 cubes in a 3D grid and a camera following a spline; all rendering in an average of 4.06 ms.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/CubesInstanced" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.youtube.com/watch?v=9nYsrXLfwCc&ab_channel=DanielFedaiLarsen" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Youtube video</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591691f5414fb57bbf91d80f/1494651383937/water-1018808_960_720.jpg?format=original" alt=""/>
+  
+
+<h3>C++ memory pool implementation</h3><p dir="ltr">This was my 2 week project over Christmas break, going from reading about memory pools in "Game Engine Architecture" by Jason Gregory of Naughty Dog, to implementing one myself.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/MemoryPool" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169411414fb57bbf91e78e/1494651924430/app_icon2.png?format=original" alt=""/>
+  
+
+&nbsp;<h3>My mJournal Google Play App</h3><p dir="ltr">This was my first long term personal project. It is an Android app that allows users to store detailed medical information about themselves.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://play.google.com/store/apps/details?id=com.mulattokid.medapp&hl=en" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Google Play Store</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591690f05016e1ac9987f016/1494651120993/16972113.jpg?format=original" alt=""/>
+  
+
+<h3>Github account</h3><p>This is my Github account. You will find all of my public repositories there.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Take me here</a>
+</div>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact/</link>
+      <title>Contact</title>
+      <pubDate>Sat, 13 May 2017 06:15:41 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Contact</h1>
+
+
+
+<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://danielfedailarsen.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5916a1c717bffc6da9eeed5c', '', 'page-5916a18b15cf7d45e95ee9b3');
+        });
+        return false;
+      })(this)" data-form-id="5916a1c717bffc6da9eeed5c">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_6_1494654402271_5014" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_6_1494654402271_5015" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_6_1494654402271_5015-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_6_1494654402271_5015-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_6_1494654402271_5016" class="form-item field text required">
+                <label class="title" for="text-yui_3_17_2_6_1494654402271_5016-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text-yui_3_17_2_6_1494654402271_5016-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_6_1494654402271_5017" class="form-item field textarea required">
+                <label class="title" for="textarea-yui_3_17_2_6_1494654402271_5017-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_6_1494654402271_5017-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+&nbsp;&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3c7b8a79b8c6e2689b6/1494656026834/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3f837c581c19c977184/1494656022079/download.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Your first internship</title>
+      <link>/your-first-internship/2017/7/23/your-first-internship</link>
+      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+<p>Hi again! Summer is about half-way done, and I have spent six weeks working at ARM for my summer internship (still four weeks left). This was my first internship, and I was really exited to get started doing some actual work. So far it has been an incredible experience, and I have learned more than I imagined. However, looking back to week one, there is <em>one</em> thing I wish I had done even more: ask for help/advice.</p>
+<h1 id="ask-for-help-advice">Ask for help/advice</h1>
+<p>Before my internship, I received the same advice I am giving you: ask for help/advice. However, sitting at my desk as a fresh intern amongst many experienced people, I became afraid of bothering them too much. They were all friendly and helpful whenever I did ask, so this was my own head playing with me.</p>
+<p>What I learned after a couple of weeks was that trying to solve some things myself would just take too long, and asking someone and receiving advice that could either solve my current problem, or steer me in the correct direction, was a better use of everyone's time. After I started asking more, my efficiency increased and the work became even more enjoyable, as I did not have to spend an hour looking at my computer screen with little idea as how to proceed.</p>
+<p>Now, just to be clear, I am not saying you should ask about every single thing you are struggling with; you are there to learn, and a big part of that is trying and failing yourself, but I would say that it is better to ask one unecessary question than to not ask a crucial one.</p>
+<h1 id="do-not-be-afraid-to-ask-further-questions">Do not be afraid to ask further questions</h1>
+<p>Additionally, do not settle for an answer that you barely understand or are slightly confused about. The better you understand their answer <em>now</em>, the less likely it is that you will have to ask them again at a later point. Ask further questions after your initial question is answered, dig deeper into the topic at hand, and if you notice that the topic is one that interests the person you are asking, take advantage of the opportunity and learn as much you can.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2017/7/23/your-first-internship</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sun, 23 Jul 2017 17:40:14 +0000</pubDate>
+      <wp:post_date>2017-07-23 17:40:14</wp:post_date>
+      <wp:post_date_gmt>2017-07-23 17:40:14</wp:post_date_gmt>
+      <category domain="post_tag" nicename="internship"><![CDATA[Internship]]></category>
+      <category domain="post_tag" nicename="tech-internship"><![CDATA[Tech internship]]></category>
+      <category domain="post_tag" nicename="first-internship"><![CDATA[First internship]]></category>
+      <category domain="category" nicename="thoughts"><![CDATA[Thoughts]]></category>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+  </channel>
+</rss>
+

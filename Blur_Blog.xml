@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>fedai.tech</title>
+    <link>https://fedai.tech</link>
+    <pubDate>Fri, 12 May 2017 19:28:23 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>445275830</wp:author_id>
+      <wp:author_login>daniefla@stud.ntnu.no</wp:author_login>
+      <wp:author_email>daniefla@stud.ntnu.no</wp:author_email>
+      <wp:author_display_name><![CDATA[Daniel Fedai Larsen]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Daniel]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Fedai Larsen]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Thu, 14 Sep 2017 06:36:19 +0000</pubDate>
+      <content:encoded><![CDATA[<p> </p><p>Hi!</p><p>My name is Daniel Fedai Larsen and I am a 4th year CS student at the Norwegian University of Science and Technology.&nbsp;I am currently enrolled in a 2 year AI master's program, which I plan to finish the spring of 2019.</p><p>Computer graphics and game/rendering engines are the two areas of CS that I truly enjoy the most. There is just something about making pretty things show up on the screen, and understanding how these incredibly complex systems work, that I find fascinating. I one day hope to get a job where I get to work with either, or both, of these areas.</p><p>For my resume, have a look at my LinkedIn profile or get in touch and I will be happy to send you a PDF.&nbsp;</p><p> </p><h2 class="text-align-center">Get in touch with me through</h2>&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a09459cc68625b2e0dac/1494655231972/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169f316b8f5b6a4a0a720b/1494655249536/download.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="/contact" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a0c337c581c19c975c4c/1494655499754/email-icon-23.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page/</link>
+      <title>Portfolio</title>
+      <pubDate>Sun, 14 May 2017 16:04:01 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h1 class="text-align-center">Portfolio of Daniel Fedai Larsen</h1>&nbsp;<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="">
+  <div class="spinner-wrapper"></div>
+  <input type="search" class="search-input" value="" placeholder="Search"/>
+</div>
+
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3023a0411c1023cdc60/1494655752568/?format=original" alt=""/>
+  
+
+<h3>ShaderToy ray tracing</h3><p dir="ltr">This is one of my ShaderToy demos that use ray tracing in order to create an image of a sphere that refracts light that enters through it.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.shadertoy.com/user/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">ShaderToy profile</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59168f97ebbd1a2575fb8da9/1494650783034/CubesInstanced.png?format=original" alt=""/>
+  
+
+<h3>OpenGL instance rendering</h3><p>This was my first time playing with instancing in OpenGL. &nbsp;The result is a scene with 274 625 cubes in a 3D grid and a camera following a spline; all rendering in an average of 4.06 ms.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/CubesInstanced" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://www.youtube.com/watch?v=9nYsrXLfwCc&ab_channel=DanielFedaiLarsen" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Youtube video</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591691f5414fb57bbf91d80f/1494651383937/water-1018808_960_720.jpg?format=original" alt=""/>
+  
+
+<h3>C++ memory pool implementation</h3><p dir="ltr">This was my 2 week project over Christmas break, going from reading about memory pools in "Game Engine Architecture" by Jason Gregory of Naughty Dog, to implementing one myself.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid/MemoryPool" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github repository</a>
+</div>&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/59169411414fb57bbf91e78e/1494651924430/app_icon2.png?format=original" alt=""/>
+  
+
+&nbsp;<h3>My mJournal Google Play App</h3><p dir="ltr">This was my first long term personal project. It is an Android app that allows users to store detailed medical information about themselves.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://play.google.com/store/apps/details?id=com.mulattokid.medapp&hl=en" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Google Play Store</a>
+</div>
+  
+      <img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/591690f05016e1ac9987f016/1494651120993/16972113.jpg?format=original" alt=""/>
+  
+
+<h3>Github account</h3><p>This is my Github account. You will find all of my public repositories there.</p>
+<div class="sqs-block-button-container--left" data-alignment="left" data-button-size="small">
+	<a href="https://github.com/MulattoKid" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Take me here</a>
+</div>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact/</link>
+      <title>Contact</title>
+      <pubDate>Sat, 13 May 2017 06:15:41 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Contact</h1>
+
+
+
+<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://danielfedailarsen.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5916a1c717bffc6da9eeed5c', '', 'page-5916a18b15cf7d45e95ee9b3');
+        });
+        return false;
+      })(this)" data-form-id="5916a1c717bffc6da9eeed5c">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_6_1494654402271_5014" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_6_1494654402271_5015" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_6_1494654402271_5015-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_6_1494654402271_5015-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_6_1494654402271_5016" class="form-item field text required">
+                <label class="title" for="text-yui_3_17_2_6_1494654402271_5016-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text-yui_3_17_2_6_1494654402271_5016-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_6_1494654402271_5017" class="form-item field textarea required">
+                <label class="title" for="textarea-yui_3_17_2_6_1494654402271_5017-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_6_1494654402271_5017-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+&nbsp;&nbsp;
+  
+      <a href="https://twitter.com/MuIattoKid"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3c7b8a79b8c6e2689b6/1494656026834/twitter-icon-circle-blue-logo-preview.png?format=original" alt=""/></a>
+  
+
+
+  
+      <a href="https://www.linkedin.com/in/daniel-fedai-larsen-6b99a3107/?trk=nav_responsive_tab_profile_pic"  target="_blank" ><img src="https://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/t/5916a3f837c581c19c977184/1494656022079/download.png?format=original" alt=""/></a>
+  
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Blurring our game as a background for our menu</title>
+      <link>/blurring-our-game-as-a-background-for-our-menu/2017/5/13/blurring-our-game-as-a-background-for-our-menu</link>
+      <content:encoded><![CDATA[<p>Hi, and welcome to my first blog post!</p>
+<p>I am not going to bore you with unecessary talk, but let me just say thank you for stopping by and I hope you will find 
+what I have to write useful. So, let us get started!</p>
+<h1 id="introduction">Introduction</h1>
+<p>Now, what are we going to do today? Well, we are going to create a simple program using C++ and OpenGL that allows us to blur our game and use it as our "background" when displaying our menu. It can of course be used for whatever you would like, but that is our main goal here. I will try my best to provide you with as much details as I can, but I will not be teaching you everything you need to now. Here are the prerequisites I expect any reader to be familiar with/have in order to be able to complete this tutorial:</p>
+<ul>
+<li>A basic understanding of C++</li>
+<li>A basic(++) understanding of OpenGL</li>
+<li>A basic understanding of shaders (GLSL)</li>
+<li>An OpenGL project with something drawing to the screen</li>
+</ul>
+<p>I will however give a bit of a deeper introduction to image processing,  framebuffers and shaders, as they will be of great importance for this implementation. Enough talk, let us get going!</p>
+<p>Let us start with our basic screen being rendered to:</p>
+
+  
+      <img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59171dee197aeaa5f48a7bf1/1494687251402//img.png" alt=""/>
+  
+
+<p>There is not anything special going on here...I just have two quads (four triangles - two and two together) that I am rendering two textures onto. Do not mind the yellow lines, they are not relevant to our current goal. Now, how do we blur this? Well, let us first agree on the fact that this is nothing but a 2 dimensional grid of pixel. It is an image and nothing more, and through the fragment shader we can access these pixels just as one would do in Photoshop or Paint. We can manipulate them in order to achieve our desired effect, but unless you are familiar with basic image analysis, this would not help you much. So let us dive into one of image analysis's most useful topics: blurring.</p>
+<h1 id="part-1-image-analysis">Part 1 - Image analysis</h1>
+<p>As we have already agreed on, an image is a 2D array of pixels (integers). Here is a small example of what a 5x5 grayscale image could look like:</p>
+
+  
+       [caption id="" align="alignnone" width="213.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172611db29d6960a15c6a7/1494689796215/image1.PNG" alt=" Figure 1: The black square is the pixel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; we are working with "/>  Figure 1: The black square is the pixel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; we are working with [/caption] 
+  
+
+<p>A grayscale image utilizes 8-bit color channels to store values in the range 0-255 (2^8 = 256), and since grayscale images only have one color channel, there is only one integer present in each pixel. Now, before I give you the simplest solution on how to blur this random 5x5 image I encourage you to try and think of a way to solve this yourself; given an image like the one in Figure 1, and focusing on the highlighted pixel, how do we blur it? Or in other words, how can we make its neighbors have an impact on said pixel?</p>
+<h3 id="median-blur">Median blur</h3>
+<p>The simplest answer is as follows: say we want to blur the pixel in position [1] [1], let us call it P, we could find the median number among all P's neighbors (neighbors implying the eight pixels that surround the pixel we are working on, and said pixel), and replace the integer in P with this new number that we have found. However, there is one problem with this. What if we have the following 5x5 image instead:</p>
+
+  
+       [caption id="" align="alignnone" width="203.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172660e3df28cc11ed14c5/1494689805092/image2.PNG" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figure 2 "/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Figure 2 [/caption] 
+  
+
+<p>What happens if we iterate over the neighbors of P and select the median? Well, first we get the following numbers (sorted) that classify as P's neighbors: [0, 0, 0, 0, 0, 0=P, 255, 255, 255]. There are nine numbers in this array, and since they are sorted, the median is located at index 4 which equals 0. If we were to perform this operation on all of the pixels in this image, the result would be identical to the original image. Try it out if you do not see the pattern. This is of course a rare case, and if we were to do this on the image in Figure 1, we would not get the same output as our input. However, this highlights an issue with simly taking the median; in the image in Figure 2 one would expect a blurred version of the image to have grey pixels in areas where some of the neighboring pixels are completely black (a value of 0) and the rest of the neighbors are completely white (a value of 255). Let us fix this right away!</p>
+<h3 id="average-blur">Average blur</h3>
+<p>The next solution would be to replace the value of our pixel P with the average of its neighboring pixels. Let us do that: 
+(0 + 0 + 0 + 0 + 0 + 0 + 255 + 255 + 255) / 9 = 765 / 9 = 85
+If we do this for every pixel in the image in Figure 2, we get the following output image:</p>
+
+  
+       [caption id="" align="alignnone" width="213.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172ac1579fb3dea4e81be0/1494691532081/image3.PNG" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 3 "/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 3 [/caption] 
+  
+
+<p>This looks much more like we would expect. Areas that only have completely white pixels remain white, areas with only completely black pixels remain black, areas with more white than black pixles become light grey, while areas with more black than white pixels become dark grey. Pretty neat huh?! This is not bad, but we can do even better. But before we do, let us define a word used in image analysis a lot: filter. </p>
+<h3 id="filters-and-kernels">Filters and kernels</h3>
+<p>Simply put, a filter is an operation that is performed on each pixel in an image. When we took the median of P's neighbors earlier, we utilized what is known as a median filter. When we took the average of P's neighbors we used a averaging filter. The average filter just used can be expressed as follows:</p>
+
+  
+       [caption id="" align="alignnone" width="88.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172eaa1b10e3f7ad18d0c6/1494691511752/averagefilter.PNG" alt=" &nbsp; &nbsp; &nbsp; &nbsp;Figure 4 "/>  &nbsp; &nbsp; &nbsp; &nbsp;Figure 4 [/caption] 
+  
+
+<p>What you are seeing here is known as a kernel (not to be confused with kernels related to operating systems). A kernel is simply a grid, 1 or 2 (or even 3) dimensional, that is convolved over an image. Convolved basically means moved across every pixel. <a href="http://mourafiq.com/images/posts/convolution_schematic.gif">Here</a> is a GIF, showcasing how convolution works. Let me try to explain how we can implement our average filter using the image in Figure 4 and convolution.</p>
+<p>Given our image in Figure 2 and our goal of averaging each pixel using its neighbors, what happens if we move our kernel (convolve) in Figure 4 over each pixel in our image, and at each pixel, we multiply the value in each of the positions in our kernel with the value of the pixel at the same location in our image, with an offset of where the kernel is currently centered in our image. Let me illustrate to allow you to visualize what we are doing:</p>
+
+  
+       [caption id="" align="alignnone" width="203.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591730e88419c282a85f6f3c/1494692077960//img.png" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 5 "/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 5 [/caption] 
+  
+
+<p>What we have done here is to put the center of our kernel ([1] [1]) at the top left pixel in our image ([0] [0]). Figure 5 shows which pixel in our image will be covered by the kernel. If we move our kernel one pixel to the right, the following pixels in our image would be covered:</p>
+
+  
+       [caption id="" align="alignnone" width="203.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591731cec534a5e1adcfb915/1494692307187//img.png" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 6 "/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 6 [/caption] 
+  
+
+<p>If we put the center of our kernel on pixel [2] [2], the covered pixels in our image would be:</p>
+
+  
+       [caption id="" align="alignnone" width="203.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917324317bffc6da9f30386/1494692419885/averagekernel3.PNG" alt=" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 7 "/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Figure 7 [/caption] 
+  
+
+<p>Do you see the pattern? If you are having trouble with it, I recommend checkoing out the following <a href="https://en.wikipedia.org/wiki/Kernel_(image_processing)">explanation</a>. Now, given the image in Figure 7 and our kernel in Figure 4, what do we do next. Well, we multiply each value in our kernel with the value located in the pixel it is currently covering and sum the results. This results in the following expression: </p>
+<p>(1 * 0) + (1 * 0) + (1 * 0) + (1 * 255) + (1 * 255) + (1 * 255) + (1 * 255) + (1 * 255) + (1 * 255) = 1530</p>
+<p>Now, recall that when I presented you with the resulting image after blurring it with an averaging filter, the value in position [2] [2] was 170. How do we make 1530 become 170? Well, notice that in order to get 1530, we multiplied nine locations in our kernel with their corresponding image pixels values. So what do we do next, we divide 1530 by 9:</p>
+<p>1530 / 9 = 170</p>
+<p>Now, technically, this is not the correct way of doing it. If we are to adhere to the rules, the averaging kernel looks like this:</p>
+
+  
+      <img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b492e58c627dbfa8c6ac/1496560790831//img.png" alt=""/>
+  
+
+<p>As you can see, we divide each value by the sum of the kernel values. And, since this is done before we multiply, there is no need to divide by 9 afterwards.</p>
+<p>There we go, we have successfully blurred pixel [2] [2] in our image using an averaging filter which we represented using the kernel in Figure 4. Some of you might be wondering what happens if the center of our filter is located on one of the edges of our image or in the corner. Well, that is up to you. You can either always divide by 9, or you can only divide by the number of kernel - image multiplications you are able to perform in your current scenario, pad the image, or wrap it.</p>
+<h3 id="gaussian-filter">Gaussian filter</h3>
+<p>Now that we know what filters and kernels are, we can improve our results even more; we are going to use what is known as a Gaussian filter. Now, depending on how much mathematics you have been exposed to, you may have heard of a Gaussian functions before. If you have not, do not fear, because we are not going to go into the details of that in this tutorial. We will just be using what a Gaussian function provides; a normal distribution, which looks as follows in 2D:</p>
+
+  
+       [caption id="" align="alignnone" width="300.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b323f7e0ab04a7280f10/1496560429700//img.png" alt=" As we see, the edges have low values, while the closer we get to the center, the higher the values. "/>  As we see, the edges have low values, while the closer we get to the center, the higher the values. [/caption] 
+  
+
+<p>If you want to learn more about the Gaussian function and its applications, you can start on <a href="https://en.wikipedia.org/wiki/Gaussian_function">Wikipedia</a>. The Gaussian filter can be represented by the following kernel:</p>
+
+  
+       [caption id="" align="alignnone" width="88.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59173557b3db2b3cdabf9dab/1494693215559//img.png" alt=" &nbsp; &nbsp; &nbsp; &nbsp;Figure 8 "/>  &nbsp; &nbsp; &nbsp; &nbsp;Figure 8 [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="124.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b5769de4bb5dfbb265a1/1496561018358//img.png" alt=" The same goes for our Gaussian kernel, we divide each value by the sum of the kernel values. "/>  The same goes for our Gaussian kernel, we divide each value by the sum of the kernel values. [/caption] 
+  
+
+<p>As you can see, it is similar to our average kernel in Figure 4, only that instead of all 1's, we now have varying values depending on location. This has the purpose known as weighting. When we perform our convolution as before, by moving the kernel around the image, multiplying, summing and dividing, the weights will act as a way for us to be able to specify a pixels importance. Since the center value in our Gaussian kernel is 4, the center pixel we are currently convolving on (the pixel that we are trying to blur according to its neighbors) will be weighted 4 times as much as a neighbor located under one of the corners of our kernel. You will either have to accept this, or start reading up on Gaussian filters and their place in image analysis (<a href="http://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm">1</a> and <a href="https://www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec02_filter.pdf">2</a>).
+Now, there is one more important thing to consider before our Gaussian filter is working correctly. When using our average kernel, remember that we divded by 9. Well, the reason we divided by 9 was that the sum of the values in our averaging kernel summed to 9. In our Gaussian kernel however, they sum to 16. We will therefore be diving by 16 this time around.</p>
+<p>So, that is really all we need in terms of "new" image processing knowledge. There is however one thing to note; the size of the kernels I have shown you are all 3x3 - they do not have to be that size. They can be any size you want, but it is common to use sizes 3x3, 5x5, 7x7, etc. That way, there is always a center value in our kernel that acts as our reference point when we are convolving our image with it.</p>
+<p>Phew...that was quite a lot. If you got through it all, the rest is going to be easier as long as you have your OpenGL project set up and ready to go. Let us continue!</p>
+<h1 id="part-2-opengl-setup">Part 2 - OpenGL setup</h1>
+<p>Let me start this part by explaining my project setup. First of all, I am using SDL 2.0 for windowing and keyboard input. I will let you know whenever I am using any of the functions SDL provides or I am using something derived from SDL. OK, so I have a main game-loop which looks as follows:</p>
+<pre><code class="lang-cpp">while (window-&gt;isOpen())
+{
+    window-&gt;clear();
+    switch (gameState)
+    {
+    case GAME:
+        drawGame();
+        break;
+    case MENU:
+        drawMenu();
+        break;
+    }
+    window-&gt;update();
+}</code></pre>
+<p>Note that window is a class that contains a SDL_Window*. So, as long as the window is open, we start by clearing our previous rendered frame, followed by checking our game state, and lastly we update our window, i.e. render our newest frame. I am going to let you create your own menu. What we are interested in however is what happens when we call <code>drawGame()</code>. This is where we are going to capture the last frame of the game, performing our image processing on it, storing it, and finally using it when we draw our menu.</p>
+<p>Let us have a look at our <code>drawGame()</code> function:</p>
+<pre><code class="lang-cpp">void Game::drawGame()
+{
+    //Check for events and act accordingly
+    Events::checkForGameEvents(player, &amp;gameState);
+    if (gameState == GameState::MENU)
+        menuBackgroundFramebuffer-&gt;renderTo();
+
+    //Do your game logic here
+    ...
+
+    //Finish by drawing your game
+    ...
+
+    //Clean up after switching to displaying the game menu
+    if (gameState == GameState::MENU)
+        blur(quadWithUV, menuBackgroundFramebuffer, intermediateFramebuffer, 5, gaussianBlurShader, quadShader);
+}</code></pre>
+<p>Let us take it from the top. We start by checking for any events. Here I am using SDL, but that should not make any real impact on the code as you should simply detect what keys are pressed etc. We pass a reference to our <code>gamestate</code> into this function which is altered inside the function if <code>Escape</code> is pressed. Let us now assume <code>Escape</code> is indeed pressed and <code>gamestate</code> is updated to hold the value <code>GameState::MENU</code>. Now it starts getting exciting!</p>
+<p>We check the state of <code>gamestate</code> and since we did press <code>Escape</code>, we enter the if-statement, which calls <code>menuBackgroundFramebuffer-&gt;renderTo()</code>. Let us have a look in there to see what is going on. First off we have the struct called <code>Framebuffer</code> located in <strong>Framebuffer.h</strong>:</p>
+<pre><code class="lang-cpp">struct Framebuffer
+{
+    GLuint texture, buffer;
+    unsigned int width, height;
+
+    Framebuffer(unsigned int, unsigned int);
+    ~Framebuffer();
+    inline void renderTo()
+    {
+        glBindFramebuffer(GL_FRAMEBUFFER, buffer);
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    }
+
+    inline void renderDefault()
+    {
+        glBindFramebuffer(GL_FRAMEBUFFER, 0);
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    }
+};</code></pre>
+<p>In <strong>Framebuffer.cpp</strong> we have the follwowing constructor and destructor:</p>
+<pre><code class="lang-cpp">#include &lt;iostream&gt;
+#include "Framebuffer.h"
+Framebuffer::Framebuffer(unsigned int _width, unsigned int _height)
+{
+    width = _width;
+    height = _height;
+
+    glGenTextures(1, &amp;texture);
+    glBindTexture(GL_TEXTURE_2D, texture);
+    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA,
+        width, height, 0, GL_RGBA, GL_FLOAT, NULL);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP);
+
+    glGenFramebuffers(1, &amp;buffer);
+    glBindFramebuffer(GL_FRAMEBUFFER, buffer);
+    glFramebufferTexture2D(GL_FRAMEBUFFER, GL_COLOR_ATTACHMENT0, GL_TEXTURE_2D, texture, 0);
+    GLenum status = glCheckFramebufferStatus(GL_FRAMEBUFFER);
+    if (glCheckFramebufferStatus(GL_FRAMEBUFFER) != GL_FRAMEBUFFER_COMPLETE)
+    {
+        std::cout &lt;&lt; "Frame buffer failed: " &lt;&lt; status &lt;&lt; std::endl;
+        system("pause");
+        exit(1);
+    }
+
+    glBindFramebuffer(GL_FRAMEBUFFER, 0);
+    glBindTexture(GL_TEXTURE_2D, 0);
+}
+
+Framebuffer::~Framebuffer()
+{
+    glDeleteTextures(1, &amp;texture);
+    glDeleteFramebuffers(1, &amp;buffer);
+}</code></pre>
+<p>Now, if you have never worked with framebuffers before, this might seem a bit daunting. No need to worry; although they can be a pain at times, think of them as a texture that can be rendered to. This means that instead of rendering to the screen, we can render our scene to a framebuffer and do with it as we please. In the constructor we generate a texture, then a framebuffer object and attach the texture to the framebuffer object. The <code>_width</code> and <code>_height</code> you pass in when creating it should be the size of the window you are running your game in. We finish by doing some error checking to make sure that the framebuffer was created successfully and clean up after ourselves. The destrcutor should be self-explanatory.</p>
+<p>If you recall, what brought us into <strong>Framebuffer.h</strong> was the call to <code>renderTo()</code>. In this function we simply set the framebuffer as the render target for OpenGL and clear the previous contents of it. What this means is that as long as we do not specify anything else, our window will not be rendered to, only our framebuffer. </p>
+<p>Then, as the comment states, you perform you regular game logic and raw your game - nothing fancy here. Remember that since we set our framebuffer as the rendertarget, your game will not be drawn to the screen this time. Then we again check if the <code>gamestate</code> has been altered to equal <code>GameState::MENU</code>. If it has, we proceed into the if-statement and make a call to <code>blur()</code> which looks as follows:</p>
+<pre><code class="lang-cpp">void blur(Quad* quad, Framebuffer* target, Framebuffer* intermediate, const unsigned short numberOfPasses, Shader* blurShader, Shader* passShader)
+{
+    bool renderTarget = false;
+    for (int i = 0; i &lt; numberOfPasses; i++)
+    {
+        if (renderTarget)
+        {
+            target-&gt;renderTo();
+            quad-&gt;draw(intermediate-&gt;texture, blurShader);
+        }
+        else
+        {
+            intermediate-&gt;renderTo();
+            quad-&gt;draw(target-&gt;texture, blurShader);
+        }
+
+        renderTarget = !renderTarget;
+    }
+
+    if (numberOfPasses % 2 != 0)
+    {
+        target-&gt;renderTo();
+        quad-&gt;draw(intermediate-&gt;texture, passShader);
+    }
+
+    target-&gt;renderDefault();
+}</code></pre>
+<p>Let us take is step by step, and start with the parameters:</p>
+<ul>
+<li>Quad is simply a rectangle that is the size of the screen that has the ability to draw itself with a texture on itself</li>
+<li>Framebuffer target is the framebuffer containing our game rendered to its texture</li>
+<li>Framebuffer intermediate is a framebuffer, just as target, but that is empty and who's only purpose is to serve as a temporary framebuffer which we will discuss shortly</li>
+<li>numberOfPasses tells us how many times we are going to blur the texture located in target</li>
+<li>Shader blurShader is the shader that is capable of blurring our texture</li>
+<li>Shader passShader is the shader used to simply pass a texture between two framebuffers</li>
+</ul>
+<p>Let us first discuss <code>numberOfPasses</code>. Up until now I have never mentioned the fact that we can blur an image multiple times; well we can. The more times we blur it, the more blurry it will become, shocker right. Here is an example:</p>
+
+  
+       [caption id="" align="alignnone" width="569.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ac8893fc0567ab5220d/1494706912798//img.png" alt=" This texture has been blurred one time "/>  This texture has been blurred one time [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="621.0"]<img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ae5ff7c50802ff482f4/1494706928433//img.png" alt=" This texture has been blurred 20 times "/>  This texture has been blurred 20 times [/caption] 
+  
+
+<p>As you can see, the difference is quite large, and you should blur it the number of times required until you get your desired effect. However, keep in mind that each blur pass is not free, and doing an excessive amount of blurs per frame will increase your frame time (each renderpass has a cost associated with it). Also, instead of doing multiple renderpasses, we can increase the size of the kernel. In our simple grayscale images above, we used a kernel size of 3x3, but you can use any size you want, and the larger the kernel, the greater of an effect the blur will have. Common sizes are 3x3, 5x5, 7x7, 9x9 etc.</p>
+<p>Let us move on into the code of <code>blur()</code>. We start by setting <code>bool renderTarget = false;</code>. This variable is simply used to keep track if we rendered to <code>target</code> or <code>intermediate</code>, and since we start by wanting to render to <code>intermediate</code> we set it to <code>false</code>. We then start to loop over the number of blur passes we want to make. For each iteration, we check which framebuffer we are going to render to. Since <code>renderTarget</code> was set to <code>false</code>, we start off by entering the else-statement which does the following: it sets the intermediate framebuffer as the rendertarget (remember this means that OpenGL will render to this framebuffer's texture). It finishes by calling <code>draw()</code> which is a function that is a memeber of Quad. It looks like this:</p>
+<pre><code class="lang-cpp">inline void draw(GLuint texture, Shader* shader)
+    {
+        shader-&gt;bind();
+        glBindVertexArray(vao);
+        glBindTexture(GL_TEXTURE_2D, texture);
+        glDrawArrays(GL_TRIANGLES, 0, 6);
+
+        glBindTexture(GL_TEXTURE_2D, 0);
+        glBindVertexArray(0);
+    }</code></pre>
+<p>It basically draws a quad that covers the entire screen with the texture and shader specified. At this point it is worth noting that <code>Shader</code> is a simple class that holds an <code>GLuint</code> that represents our shader program. You should be familiar with this. All <code>shader-&gt;bind()</code> does is call <code>glUseProgram(program)</code> and passing in the shader program we want to use. Before we go onto discussing the actual shaders, let us finish with <code>blur()</code>.</p>
+<p>We finish each iteration by altering the value of <code>renderTarget</code> so that next time (if there is a next time) we render to the other framebuffer available. The reason for this altering of rendertargets is that a framebuffer can only hold one texture which contains our data, and rendering to the texture we are reading from does not seem like a good idea. I feel the need to <strong>emphasize</strong> what we are passing into to <code>quad-&gt;draw()</code>. Notice that we are setting one framebuffer as our rendertarget and passing in the <strong>other</strong> to the draw method.</p>
+<p>Finally, once we are done with all our blur passes, we check if the number of passes we did was odd or even. If it was odd, we know that the <code>intermediate</code> framebuffer holds our final blurred texture, but we do not want that, we want our <code>target</code> framebuffer to hold the final texture. We therefore do an "empty pass" where we simply render the contents in the texture of <code>intermediate</code> onto the texture in <code>target</code>. This essentially copies the texture from one framebuffer to the other. We finish by calling <code>target-&gt;renderDefault();</code>. It looks like this:</p>
+<pre><code class="lang-cpp">inline void renderDefault()
+    {
+        glBindFramebuffer(GL_FRAMEBUFFER, 0);
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+    }</code></pre>
+<p>This will reset our rendertarget to OpenGL's default rendertarget which will allow us to render to our screen again. If we do not make this call, we will continue to render to the texture attached to the <code>target</code> framebuffer and we will never get to see our beautiful blurred background.</p>
+<p>Wow...let us take a small <a href="http://promotehealth.info/wp-content/uploads/Hyperventilate.gif">breather</a> :)</p>
+<h1 id="part-3-blurring-our-game">Part 3 - Blurring our game</h1>
+<p>If you were paying close attention, you might have noticed that we are missing a crucial part of our program; the shader(s). Let us start of easy with the <code>passShader</code> we passed in as the last parameter into <code>blur()</code>. The <strong>vertex</strong> shader is as simple as it gets when using a texture:</p>
+<pre><code class="lang-c">#version 430
+    in layout(location=0) vec3 position;
+    in layout(location=1) vec2 uv;
+    out vec2 texCoord;
+
+    void main()
+    {
+        texCoord = uv;
+        gl_Position = vec4(position, 1.0f);
+    }</code></pre>
+<p>And the <strong>fragment</strong> shader is just as simple:</p>
+<pre><code class="lang-c">#version 430
+    in vec2 texCoord;
+    uniform sampler2D sampler;
+    out vec4 color;
+
+    void main()
+    {
+        color = texture(sampler, texCoord);
+    }</code></pre>
+<p>None of these shaders should look strange to you. Now comes the fun part, the shaders that performs the actual blurring of the texture we pass in. Here we go; the vertex shader is identical to that of the pass shader so nothing new there, but the <strong>fragment</strong> shader...it's a handful.</p>
+<pre><code class="lang-c">#version 430
+    in vec2 texCoord;
+    uniform sampler2D sampler;
+    out vec4 color;
+
+    void main()
+    {
+        float kernel[5][5] = { 
+            {1.0f, 4.0f,  6.0f,     4.0f,  1.0f},
+            {4.0f, 16.0f, 24.0f, 16.0f, 4.0f},
+            {6.0f, 24.0f, 36.0f, 24.0f, 6.0f},
+            {4.0f, 16.0f, 24.0f, 16.0f, 4.0f},
+            {1.0f, 4.0f,  6.0f,  4.0f,  1.0f}
+        };
+        const float sum = 256.0f;
+
+        const ivec2 textureSize2D = textureSize(sampler, 0);
+        const float xOffset = 1.0f / textureSize2D.x;
+        const float yOffset = 1.0f / textureSize2D.y;
+
+
+        //Row 1
+        vec4 blurredNonNormalized = texture(sampler, vec2(texCoord.x - (2 * xOffset), texCoord.y - (2 * yOffset))) * kernel[0][0];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x -        xOffset,  texCoord.y - (2 * yOffset))) * kernel[1][0];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x,                  texCoord.y - (2 * yOffset))) * kernel[2][0];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x +        xOffset,  texCoord.y - (2 * yOffset))) * kernel[3][0];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x + (2 * xOffset), texCoord.y - (2 * yOffset))) * kernel[4][0];
+
+        //Row 2
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x - (2 * xOffset), texCoord.y -        yOffset))  * kernel[0][1];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x -        xOffset,  texCoord.y -        yOffset))  * kernel[1][1];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x,                  texCoord.y -        yOffset))  * kernel[2][1];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x +        xOffset,  texCoord.y -        yOffset))  * kernel[3][1];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x + (2 * xOffset), texCoord.y -        yOffset))  * kernel[4][1];
+
+        //Row 3
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x - (2 * xOffset), texCoord.y))                   * kernel[0][2];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x -        xOffset,  texCoord.y))                   * kernel[1][2];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x,                  texCoord.y))                   * kernel[2][2];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x +        xOffset,  texCoord.y))                   * kernel[3][2];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x + (2 * xOffset), texCoord.y))                   * kernel[4][2];
+
+        //Row 4
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x - (2 * xOffset), texCoord.y +        yOffset))  * kernel[0][3];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x -        xOffset,  texCoord.y +        yOffset))  * kernel[1][3];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x,                  texCoord.y +        yOffset))  * kernel[2][3];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x +        xOffset,  texCoord.y +        yOffset))  * kernel[3][3];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x + (2 * xOffset), texCoord.y +        yOffset))  * kernel[4][3];
+
+        //Row 5
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x - (2 * xOffset), texCoord.y + (2 * yOffset))) * kernel[0][4];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x -        xOffset,  texCoord.y + (2 * yOffset))) * kernel[1][4];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x,                  texCoord.y + (2 * yOffset))) * kernel[2][4];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x +        xOffset,  texCoord.y + (2 * yOffset))) * kernel[3][4];
+        blurredNonNormalized +=        texture(sampler, vec2(texCoord.x + (2 * xOffset), texCoord.y + (2 * yOffset))) * kernel[4][4];
+
+        //Normalize
+        vec4 blurredNormalized = blurredNonNormalized / sum;
+
+        color = blurredNormalized;
+    }</code></pre>
+<p class="text-align-center"><strong>(I recommend copying this shader into a text editor to get a better overview)</strong></p><p>Do not freak out, once we step through it, it should all make sense if I have done a good enough job explaining the image processing part.</p>
+<p>We start by creating a 5x5 Gaussian kernel called <code>kernel</code>. Recall that a kernel can be of any size, not just 3x3. Since we are now using a 5x5 kernel, which essentially means that we will be taking more neighbors into account when blurring, we need a larger normal distribution. The numbers we use are <code>1.0f, 4.0f, 6.0f, 16.0f, 24.0f and 36.0f</code>. Gaussian kernels of many size can be found if you do a bit of googleling. We then need to remember that we should divide by the sum of all the values in our kernel at the end, which in this case equald 256. Hopefully this makes sense to you. Then we need to calculate our current coordinate in the texture we are working with. Not that GLSL's coordinate system looks like this:</p>
+
+  
+      <img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59177453725e254491558f88/1494709351370//img.png" alt=""/>
+  
+
+<p>We start by retrieving the size of the texture and store it in a <code>vec2</code>. We then calculate our actual x- and y-cooridnates by dividing <code>1.0f</code> by the width or height. The reason for it being <code>1.0f</code> is that the max x- and y-coordinates are <code>1.0f</code>. We then begin the "tedious" of multiplying each entry in our kernel with the values located in the neighboring fragments to our current fragment. Notice that we are storing the results in a <code>vec4</code> because our texture holds RGBA values for each framgment and we want to take all the color channels into consideration when we are blurring the texture. Although the code looks like a lot, it is simply a matter of looking up at a point in the texture and multiplying it with a value in the kernel. There is a clear pattern, so you should not need more than a few minutes to see the logic behind the offsets etc.</p>
+<p>We then normalize our result vector by dividing it by the sum of the kernel. Finally, we output the blurr color to the current fragment we are processing. And that is it! If everything went smoothly, you should have a blurred texture located in your framebuffer's texture. Now, all that remains is to draw our menu, which is done simply by first rendering a quad with your blurred texture on it, and then rendering you actual menu on top of it. Remember that regardless of how many blur passes you decide to do, you final blurred texture will always be found in the <code>target</code> framebuffer you pass into the <code>blur()</code> function.</p>
+<h1>Part 4 - And we are done!</h1><p>Whooaa...I did not expect this post to be this long. Oh well, better to be thorough I suppose. I truly hope you were able to soak up all of this, I know it is much. I would most likely not be able to do all of this in one sitting myself if I knew nothing of image processing beforehand. Anyway, do not hesitate to ask any questions, and regardless of if you got it working right away, have yourself a small break, lean back and breath. And if you got it working, then hey; you deserve a cookie :)</p>
+  
+      <img src="http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917774be3df28cc11f0b48b/1494710099472//img.jpg" alt=""/>
+  
+
+<h3 class="text-align-center">Until next time</h3>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2017/5/13/blurring-our-game-as-a-background-for-our-menu</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 13 May 2017 14:50:28 +0000</pubDate>
+      <wp:post_date>2017-05-13 14:50:28</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 14:50:28</wp:post_date_gmt>
+      <category domain="post_tag" nicename="c"><![CDATA[c++]]></category>
+      <category domain="post_tag" nicename="opengl"><![CDATA[OpenGL]]></category>
+      <category domain="post_tag" nicename="glsl"><![CDATA[GLSL]]></category>
+      <category domain="post_tag" nicename="image-processing"><![CDATA[image processing]]></category>
+      <category domain="post_tag" nicename="blur-image"><![CDATA[blur image]]></category>
+      <category domain="post_tag" nicename="gaussian-kernel"><![CDATA[gaussian kernel]]></category>
+      <category domain="post_tag" nicename="average-filter"><![CDATA[average filter]]></category>
+      <category domain="post_tag" nicename="filter"><![CDATA[filter]]></category>
+      <category domain="post_tag" nicename="kernel"><![CDATA[kernel]]></category>
+      <category domain="post_tag" nicename="blog"><![CDATA[blog]]></category>
+      <category domain="post_tag" nicename="technical"><![CDATA[technical]]></category>
+      <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
+      <category domain="category" nicename="opengl"><![CDATA[OpenGL]]></category>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[20]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917774be3df28cc11f0b48b/1494710099472//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917774be3df28cc11f0b48b/1494710099472//img.jpg</link>
+      <title>attachment-5917774be3df28cc11f0b48b</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5917774be3df28cc11f0b48b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5917774be3df28cc11f0b48b]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 21:14:51 +0000</pubDate>
+      <wp:post_date>2017-05-13 21:14:51</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 21:14:51</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59177453725e254491558f88/1494709351370//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59177453725e254491558f88/1494709351370//img.png</link>
+      <title>attachment-59177453725e254491558f88</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59177453725e254491558f88]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59177453725e254491558f88]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 21:02:11 +0000</pubDate>
+      <wp:post_date>2017-05-13 21:02:11</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 21:02:11</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ae5ff7c50802ff482f4/1494706928433//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ae5ff7c50802ff482f4/1494706928433//img.png</link>
+      <title>attachment-59176ae5ff7c50802ff482f4</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59176ae5ff7c50802ff482f4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59176ae5ff7c50802ff482f4]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 20:21:57 +0000</pubDate>
+      <wp:post_date>2017-05-13 20:21:57</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 20:21:57</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ac8893fc0567ab5220d/1494706912798//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59176ac8893fc0567ab5220d/1494706912798//img.png</link>
+      <title>attachment-59176ac8893fc0567ab5220d</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59176ac8893fc0567ab5220d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59176ac8893fc0567ab5220d]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 20:21:28 +0000</pubDate>
+      <wp:post_date>2017-05-13 20:21:28</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 20:21:28</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b5769de4bb5dfbb265a1/1496561018358//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b5769de4bb5dfbb265a1/1496561018358//img.png</link>
+      <title>attachment-5933b5769de4bb5dfbb265a1</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5933b5769de4bb5dfbb265a1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5933b5769de4bb5dfbb265a1]]></excerpt:encoded>
+      <pubDate>Sun, 04 Jun 2017 07:23:34 +0000</pubDate>
+      <wp:post_date>2017-06-04 07:23:34</wp:post_date>
+      <wp:post_date_gmt>2017-06-04 07:23:34</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59173557b3db2b3cdabf9dab/1494693215559//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59173557b3db2b3cdabf9dab/1494693215559//img.png</link>
+      <title>attachment-59173557b3db2b3cdabf9dab</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59173557b3db2b3cdabf9dab]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59173557b3db2b3cdabf9dab]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 16:33:27 +0000</pubDate>
+      <wp:post_date>2017-05-13 16:33:27</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 16:33:27</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b323f7e0ab04a7280f10/1496560429700//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b323f7e0ab04a7280f10/1496560429700//img.png</link>
+      <title>attachment-5933b323f7e0ab04a7280f10</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5933b323f7e0ab04a7280f10]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5933b323f7e0ab04a7280f10]]></excerpt:encoded>
+      <pubDate>Sun, 04 Jun 2017 07:13:39 +0000</pubDate>
+      <wp:post_date>2017-06-04 07:13:39</wp:post_date>
+      <wp:post_date_gmt>2017-06-04 07:13:39</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b492e58c627dbfa8c6ac/1496560790831//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5933b492e58c627dbfa8c6ac/1496560790831//img.png</link>
+      <title>attachment-5933b492e58c627dbfa8c6ac</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5933b492e58c627dbfa8c6ac]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5933b492e58c627dbfa8c6ac]]></excerpt:encoded>
+      <pubDate>Sun, 04 Jun 2017 07:19:46 +0000</pubDate>
+      <wp:post_date>2017-06-04 07:19:46</wp:post_date>
+      <wp:post_date_gmt>2017-06-04 07:19:46</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917324317bffc6da9f30386/1494692419885/averagekernel3.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/5917324317bffc6da9f30386/1494692419885/averagekernel3.PNG</link>
+      <title>attachment-5917324317bffc6da9f30386</title>
+      <wp:post_name>averagekernel3-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5917324317bffc6da9f30386]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5917324317bffc6da9f30386]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 16:20:19 +0000</pubDate>
+      <wp:post_date>2017-05-13 16:20:19</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 16:20:19</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591731cec534a5e1adcfb915/1494692307187//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591731cec534a5e1adcfb915/1494692307187//img.png</link>
+      <title>attachment-591731cec534a5e1adcfb915</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-591731cec534a5e1adcfb915]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-591731cec534a5e1adcfb915]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 16:18:22 +0000</pubDate>
+      <wp:post_date>2017-05-13 16:18:22</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 16:18:22</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591730e88419c282a85f6f3c/1494692077960//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/591730e88419c282a85f6f3c/1494692077960//img.png</link>
+      <title>attachment-591730e88419c282a85f6f3c</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-591730e88419c282a85f6f3c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-591730e88419c282a85f6f3c]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 16:14:32 +0000</pubDate>
+      <wp:post_date>2017-05-13 16:14:32</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 16:14:32</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172eaa1b10e3f7ad18d0c6/1494691511752/averagefilter.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172eaa1b10e3f7ad18d0c6/1494691511752/averagefilter.PNG</link>
+      <title>attachment-59172eaa1b10e3f7ad18d0c6</title>
+      <wp:post_name>averagefilter-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59172eaa1b10e3f7ad18d0c6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59172eaa1b10e3f7ad18d0c6]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 16:04:58 +0000</pubDate>
+      <wp:post_date>2017-05-13 16:04:58</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 16:04:58</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172ac1579fb3dea4e81be0/1494691532081/image3.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172ac1579fb3dea4e81be0/1494691532081/image3.PNG</link>
+      <title>attachment-59172ac1579fb3dea4e81be0</title>
+      <wp:post_name>image3-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59172ac1579fb3dea4e81be0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59172ac1579fb3dea4e81be0]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 15:48:17 +0000</pubDate>
+      <wp:post_date>2017-05-13 15:48:17</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 15:48:17</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172660e3df28cc11ed14c5/1494689805092/image2.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172660e3df28cc11ed14c5/1494689805092/image2.PNG</link>
+      <title>attachment-59172660e3df28cc11ed14c5</title>
+      <wp:post_name>image2-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59172660e3df28cc11ed14c5]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59172660e3df28cc11ed14c5]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 15:29:36 +0000</pubDate>
+      <wp:post_date>2017-05-13 15:29:36</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 15:29:36</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172611db29d6960a15c6a7/1494689796215/image1.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59172611db29d6960a15c6a7/1494689796215/image1.PNG</link>
+      <title>attachment-59172611db29d6960a15c6a7</title>
+      <wp:post_name>image1-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59172611db29d6960a15c6a7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59172611db29d6960a15c6a7]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 15:28:17 +0000</pubDate>
+      <wp:post_date>2017-05-13 15:28:17</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 15:28:17</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59171dee197aeaa5f48a7bf1/1494687251402//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59171dee197aeaa5f48a7bf1/1494687251402//img.png</link>
+      <title>attachment-59171dee197aeaa5f48a7bf1</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>3</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59171dee197aeaa5f48a7bf1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59171dee197aeaa5f48a7bf1]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 14:53:34 +0000</pubDate>
+      <wp:post_date>2017-05-13 14:53:34</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 14:53:34</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59171a1f9de4bb3c01822c9d/1509190963248/thumbnail.PNG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/59160cd7be65940cf9f1c85c/591719c8f7e0ab8d478a3738/59171a1f9de4bb3c01822c9d/1509190963248/thumbnail.PNG</link>
+      <title>attachment-59171a1f9de4bb3c01822c9d</title>
+      <wp:post_name>thumbnail-PNG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-59171a1f9de4bb3c01822c9d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-59171a1f9de4bb3c01822c9d]]></excerpt:encoded>
+      <pubDate>Sat, 13 May 2017 14:50:28 +0000</pubDate>
+      <wp:post_date>2017-05-13 14:50:28</wp:post_date>
+      <wp:post_date_gmt>2017-05-13 14:50:28</wp:post_date_gmt>
+      <dc:creator>daniefla@stud.ntnu.no</dc:creator>
+    </item>
+  </channel>
+</rss>
+
